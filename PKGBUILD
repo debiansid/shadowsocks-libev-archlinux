@@ -6,8 +6,8 @@
 
 pkgname=shadowsocks-libev
 pkgver=3.0.6
-_commit=eb30a3d16105eefd388b119dde989940f9fd83b6
-pkgrel=1
+_commit=33fe5adc1957aafbc9bbaaa9e4dd85a90c52be3b
+pkgrel=2
 pkgdesc='A lightweight secured socks5 proxy for embedded devices and low end boxes'
 arch=('i686' 'x86_64')
 url='https://github.com/shadowsocks/shadowsocks-libev'
